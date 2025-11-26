@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3">
+    <title>project2</title>
+</head>
+<body>
+    <center><h1>PUMA
+        
+    </h1></center>
+    <center>
+    <pre>   Home          Login            Register             Signup   </pre></center>
+    <hr>
+    <center>
+    <img src="https://i.pinimg.com/originals/2f/f4/b4/2ff4b4ebab30c52ce08117d57b19ac6b.jpg" height="150px" width="150px" alt="LOGO"></center>
+    <hr>
+    <h2><B>COLLECTION</B></h2>
+    <table border="1px">
+        <tr>
+            <td><A href="./boys.html" target="_blank">BOYS</A></td>
+        </tr>
+        <tr>
+            <td><a href="girls.html" target="_blank">GIRLS</a></td>
+        </tr>
+    </table>
+</body>
+</html>
