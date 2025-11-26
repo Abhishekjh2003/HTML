@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3">
+    <title>LIST</title>
+</head>
+<body>
+    <h1>Nested List Examples</h1>
+    <ol type="a">
+        <li>Animals</li>
+        <ul type="square">
+            <li>Mammals</li>
+             <ol type="a">
+            <li>Lion</li>
+            <li>Elephant</li>
+            <li>Whale</li>
+        </ol>
+        </ul>
+       
+        <ul type="square">
+            <li>Reptiles</li>
+             <ul type="square">
+            <li>Crocodile</li>
+            <li>Lizard</li>
+            <li>Snake</li>
+        </ul>
+    </ul>
+   
+        </ol>
+    </ol>  
+     <ol type="a" start="2">
+        <li>Plants</li>
+        <ul type="square">
+            <li>Flowering</li>
+            <ol type="a">
+            <li>Rose</li>
+            <li>Tulip</li>
+            <li>Sunflower</li>
+            </ol>
+        </ul>
+        <UL TYPE="square">
+            <li>Non-Flowering</li>
+            <UL TYPE="square">
+            <li>Fern</li>
+            <li>Moss</li>
+            <li>Algae</li>
+        </UL>
+    </ol>
+</body>
+</html>
