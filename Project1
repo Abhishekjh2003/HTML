@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3">
+    <title>Project1</title>
+</head>
+<body>
+    <center>
+    <table border="1px">
+        <tr>
+            <th colspan="4">Employee details</th>
+            <!-- <td>hello</td>
+            <td>hello</td>
+            <td>hello</td> -->
+        </tr>
+        <tr>
+            <th>SL NO.</th>
+            <th>name</th>
+            <th>Image</th>
+            <th>Link</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Chota Bheem</td>
+            <td><img src="http://getwallpapers.com/wallpaper/full/2/7/b/819721-download-free-chhota-bheem-wallpapers-2292x1667-for-ipad-2.jpg" alt="Chota Bheem" height="150px" weight="150px"> </td>
+            <td><a href="http://getwallpapers.com/wallpaper/full/2/7/b/819721-download-free-chhota-bheem-wallpapers-2292x1667-for-ipad-2.jpg" target="_blank">Chota Bheem</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Doreman</td>
+            <td><img src="https://tse1.mm.bing.net/th/id/OIP.NW3BdEdduLNroAazxWliDgHaJs?pid=Api&P=0&h=180" alt="Doreman" height="150px" weight="150px"> </td>
+            <td><a href="https://tse1.mm.bing.net/th/id/OIP.NW3BdEdduLNroAazxWliDgHaJs?pid=Api&P=0&h=180" target="_blank">Doreman</a></td>
+        </tr>
+    </table>
+    </center>
+</body>
+</html>
